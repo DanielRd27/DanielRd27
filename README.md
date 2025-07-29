@@ -1,4 +1,4 @@
-# Olá meu nome é Daniel Roque
+# Olá meu nome é Daniel Roque sou um Dev Full-Stack
 
 Estou cursando um Técnico em Análise e Desenvolvimento de Sistemas, onde venho adquirindo conhecimentos em programação, banco de dados, engenharia de software e muito mais. Tenho um grande interesse em computação quântica, uma área que me fascina pelo seu potencial de transformar o futuro da tecnologia.
 
