@@ -26,7 +26,7 @@ Solução Full-Stack completa para otimização logística e gestão de suprimen
 
 ### 🛠️ Toolbox Tecnológica
 
-<div align="center">
+<div align="center" display="flex">
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -36,6 +36,17 @@ Solução Full-Stack completa para otimização logística e gestão de suprimen
 | **Segurança & Ferramentas** | Git, GitHub, LGPD, Linux |
 
 </div>
+
+---
+
+### 🛠️ Linguagens mais usadas
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRd27&size_weight=0.5&count_weight=0.5)   
+
+</div>
+
 
 ---
 
