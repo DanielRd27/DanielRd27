@@ -26,25 +26,40 @@ Solução Full-Stack completa para otimização logística e gestão de suprimen
 
 ### 🛠️ Toolbox Tecnológica
 
-<div align="center" display="flex">
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python, C++, JavaScript, PHP |
-| **Frontend** | HTML5, CSS3, Bootstrap |
-| **Backend & Dados** | MySQL, Power BI, APIs |
-| **Segurança & Ferramentas** | Git, GitHub, LGPD, Linux |
-
-</div>
-
----
-
-### 🛠️ Linguagens mais usadas
-
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRd27&size_weight=0.5&count_weight=0.5)   
-
+  <table>
+    <tr>
+      <td valign="top">
+        <h3>💻 Tecnologias</h3>
+        <table>
+          <tr>
+            <th>Categoria</th>
+            <th>Tecnologias</th>
+          </tr>
+          <tr>
+            <td><b>Linguagens</b></td>
+            <td>Python, C++, JavaScript, PHP</td>
+          </tr>
+          <tr>
+            <td><b>Frontend</b></td>
+            <td>HTML5, CSS3, Bootstrap</td>
+          </tr>
+          <tr>
+            <td><b>Backend & Dados</b></td>
+            <td>MySQL, Power BI, APIs</td>
+          </tr>
+          <tr>
+            <td><b>Segurança & Ferramentas</b></td>
+            <td>Git, GitHub, LGPD, Linux</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <h3>🛠️ Linguagens mais usadas</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRd27&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
